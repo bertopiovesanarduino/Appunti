@@ -113,10 +113,10 @@ $$ a \div b = q $$
   $$140 = 2^2 \cdot 5 \cdot 7$$
 
 - **MCD** (fattori comuni con l'esponente minore):
-  $$\text{MCD}(120, 140) = 2^2 \cdot 5 = 20$$
+  $ \text{MCD}(120, 140) = 2^2 \cdot 5 = 20 $
 
 - **mcm** (tutti i fattori, comuni e non comuni, con l'esponente maggiore):
-  $$\text{mcm}(120, 140) = 2^3 \cdot 3 \cdot 5 \cdot 7 = 840$$
+  $ \text{mcm}(120, 140) = 2^3 \cdot 3 \cdot 5 \cdot 7 = 840 $
 
 
 ### Numero primo
