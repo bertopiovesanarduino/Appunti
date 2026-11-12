@@ -123,7 +123,23 @@ $$ a \div b = q $$
 - Un numero naturale diverso da 0 e da 1 è un numero primo se ha come divisori solo se stesso e 1
 
 ## Numeri interi
+- Consideriamo numero intero ogni numero naturale diverso da zero facendo precedere il numero dal segno + e dal segno -. vengono indicati con Z (relativi)
 
 ## Operazioni in Z e proprietà
-
+### somma di due numeri concordi
+- segno uguale a quello degli addendi e valore assoluto uguale alla somma dei valori assoluti dei due numeri
+### somma di due numeri discordi
+- segno uguale a quello dell' addendo con valore assoluto maggiore, valore assoluto uguale alla differenza tra il valore assoluto maggiore e quello minore.
+### differenza di due interi 
+- somma del minuendo con l'opposto del sottraendo
+### prodotto di due interi (diversi da 0)
+- è un intero che ha segno positivo se i fattori sono concordi, segno negativo se sono discordi;
+- valore assoluto uguale al prodotto dei valori assoluti dei fattori
+### quoziente di due interi (diversi da 0)
+- segno positivo se divisore e dividendo sono concordi, segno negativo se sono discordi
+- valore assoluto uguale al quoziente dei valori assoluti del dividendo e del divisore
 ## Potenze in Z
+- la potenza di un intero con esponente naturale, è un intero che ha:
+    - segno negativo solo se la base è negativa e l'esponente è dispari
+    - valore assoluto uguale al valore assoluto della base elevato allo stesso esponente
+    
