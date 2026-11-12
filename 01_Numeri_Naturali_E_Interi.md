@@ -113,10 +113,10 @@ $$ a \div b = q $$
   $$140 = 2^2 \cdot 5 \cdot 7$$
 
 - **MCD** (fattori comuni con l'esponente minore):
-  $$\text{MCD}(120, 140) = 2^2 \cdot 5 = 20$$
+  $ \text{MCD}(120, 140) = 2^2 \cdot 5 = 20 $
 
 - **mcm** (tutti i fattori, comuni e non comuni, con l'esponente maggiore):
-  $$\text{mcm}(120, 140) = 2^3 \cdot 3 \cdot 5 \cdot 7 = 840$$
+  $ \text{mcm}(120, 140) = 2^3 \cdot 3 \cdot 5 \cdot 7 = 840 $
 
 
 ### Numero primo
@@ -139,7 +139,3 @@ $$ a \div b = q $$
 - segno positivo se divisore e dividendo sono concordi, segno negativo se sono discordi
 - valore assoluto uguale al quoziente dei valori assoluti del dividendo e del divisore
 ## Potenze in Z
-- la potenza di un intero con esponente naturale, è un intero che ha:
-    - segno negativo solo se la base è negativa e l'esponente è dispari
-    - valore assoluto uguale al valore assoluto della base elevato allo stesso esponente
-    
