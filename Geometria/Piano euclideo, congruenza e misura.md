@@ -57,3 +57,14 @@
     - Ad ogni retta appartengono almeno due punti distinti
     - Dati due punti distinti, esiste una e una sola retta alla quale appartengono entrambi
     - Data una retta nel piano, esiste almeno un punto del piano che non appartiene a essa
+
+## Domande per allenarsi a ripetere
+1. Che cosa studia la geometria?
+2. Che cosa sono i concetti primitivi e perché è necessario assumerli?
+3. Che cosa sono gli assiomi o postulati?
+4. Come si definisce un nuovo oggetto geometrico?
+5. Che cosa sono una dimostrazione e un teorema?
+6. Nell'esempio del tris, che cosa rappresentano le parole chiave e le regole del gioco?
+7. Quali sono i concetti primitivi della geometria considerati in questi appunti? Come si indicano punti, rette e piani?
+8. Che cosa afferma il primo assioma?
+
