@@ -1,0 +1,25 @@
+# Attività di Fisica
+
+- **09/11/2026 (4°):** Correzione esercizi per casa.
+- **06/11/2026 (4°):** Consegna della verifica all'alunno assente con analisi degli errori. Esercizi sull'esplicitazione delle varianìbili in una equazione.
+- **05/11/2026 (1°):** Consegna e discussionee della verifica. Analisi degli errori.
+- **29/10/2026 (1°):** Assemblea per le elezioni dei rappresentanti degli alunni nel Cdc.
+- **26/10/2026 (4°):** Riallineamento: le equazioni di primo grado; esplicitazione delle variabili presenti in una equazione. Esercizi.
+- **23/10/2026 (4°):** VERIFICA SCRITTA RINVIATA DAL 19 OTTOBRE.
+- **22/10/2026 (1°):** Approfondimento/chiarimenti per la verifica.
+- **19/10/2026 (4°):** FISICA - VERIFICA SCRITTA. Argomenti: tutta la parte introduttiva; nomi e simboli delle grandezze e delle relative unità di misura; scrittura corretta di una misura: CASO I e CASO II; errore relativo e relativo percentuale; compatibilità tra le misure. LA VERIFICA E' RINVIATA A VENERDI' 23 OTTOBRE PER IL CORSO DI SICUREZZA PROGRAMMATO SABATO 17 OTTOBRE!!!!
+- **15/10/2026 (1°):** RIALLINEAMENTO : Equazioni di primo grado ed esplicitazione delle variabili.
+- **12/10/2026 (4°):** Correzione degli esercizi.
+- **09/10/2026 (4°):** Chiarimenti sugli argomenti svolti.
+- **08/10/2026 (1°):** Comunicazione delle date delle verifiche del primo periodo. Compatibilità delle misure.
+- **05/10/2026 (4°):** Correzione degli esercizi. Errore relativo ed errore relativo percentuale. Completamento degli esercizi assegnati per casa.
+- **02/10/2026 (4°):** Correzione degli esercizi assegnati per casa.
+- **01/10/2026 (1°):** Scrittura corretta II caso.: ESERCIZIO.
+- **28/09/2026 (4°):** Scrittura corretta II caso.
+- **25/09/2026 (4°):** Ulteriori esercizi sulle cifre significative. Introduzione alla scrittura corretta di una misura: I e II caso.
+- **24/09/2026 (1°):** Controllo esercizio per casa. Cifre significative di un numero. Esercizi.
+- **21/09/2026 (4°):** Come si stabilisce la sensibilità di uno strumento analogico e digitale. Caratteristiche di uno strumento: prontezza. Scrittura alla lavagna dell'esercizio pratico per casa.
+- **18/09/2026 (4°):** Gli strumenti di misura: analogico vs digitale. Caratteristiche di uno strumento : sensibilità e portata.
+- **17/09/2026 (1°):** Che cos'è la fisica e un fenomeno naturale. Definizione di grandezza; significato di misurare, misurazione vs misura. Introduzione agli strumenti di misura.
+- **10/09/2026 (1°):** Le grandezze fisiche fondamentali: nome grandezza; simbolo grandezza; nome u.d.m. e simbolo.
+- **08/09/2026 (1°):** Presentazioni. Introduzione alla fisica. La fisica e il S.I.. Richiesta materiali.

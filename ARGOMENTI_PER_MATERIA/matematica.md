@@ -1,0 +1,54 @@
+# Attività di Matematica
+
+- **12/11/2026 (2°):** Correzione es, concetto di sottoinsieme, intersezione e unione di insiemi
+- **12/11/2026 (3°):** Geometria: uso dei simboli insiemistici in geometria
+- **11/11/2026 (5°):** Introduzione agli insiemi, concetto di appartenenza, cardinalità
+- **07/11/2026 (1°):** Verifica scritta
+- **06/11/2026 (3°):** Ripasso
+- **05/11/2026 (2°):** Ripasso
+- **05/11/2026 (3°):** Geometria: concetto di teorema, assioma, ipotesi e tesi, definizione di figure congruenti
+- **04/11/2026 (5°):** Conversione dei numeri decimali in forma di frazione
+- **30/10/2026 (3°):** I numeri decimali, legame con i numeri razionali, dedurre il tipo di numero decimale dalla frazione
+- **28/10/2026 (5°):** Variazione percentuale
+- **24/10/2026 (1°):** Correzione esercizi
+- **24/10/2026 (2°):** Extra matematica: formule per la somma di numeri pari e dispari
+- **22/10/2026 (3°):** Geometria: segmenti consecutivi e adiacenti, angolo, angolo convesso e angolo concavo, angoli complementari, supplementari, esplementari, opposti al vertice
+- **21/10/2026 (5°):** Proporzioni e introduzione alle percentuali
+- **20/10/2026 (4°):** Studio assistito
+- **17/10/2026 (1°):** Correzione es
+- **17/10/2026 (2°):** Extra: somme di Gauss e somma dei numeri pari con il foglio di calcolo
+- **16/10/2026 (3°):** Correzione es. della verifica, espressione con le frazioni
+- **16/10/2026 (4°):** studio autonomo
+- **15/10/2026 (2°):** Introduzione alla geometria euclidea e alla figura di Euclide
+- **15/10/2026 (3°):** Prime definizioni della geometria euclidea
+- **14/10/2026 (5°):** Consegna verifiche
+- **10/10/2026 (1°):** Espressioni con le frazioni, esponenti negativi
+- **10/10/2026 (2°):** Extra matematica: contare come Gauss
+- **09/10/2026 (3°):** Operazioni con le frazioni, correzione es.
+- **08/10/2026 (2°):** Verifica scritta
+- **08/10/2026 (3°):** Verifica scritta
+- **07/10/2026 (5°):** Confronto tra frazioni e loro rappresentazione sulla retta dei numeri,
+  espressioni con frazioni
+- **03/10/2026 (1°):** L'insieme dei numeri razionali (definizione e caratteristiche), frazioni equivalenti
+- **03/10/2026 (2°):** Extra matematica: Sudoku con le somme
+- **02/10/2026 (3°):** Esercizi sul valore assoluto ed espressioni con i numeri interi
+- **01/10/2026 (2°):** Correzione esercizi
+- **01/10/2026 (3°):** Il valore assoluto
+- **29/09/2026 (5°):** Correzione es.
+- **26/09/2026 (1°):** Operazioni con i numeri interi, espressioni
+- **26/09/2026 (2°):** Extra matematica: sudoku
+- **25/09/2026 (5°):** Es. su mcm, l'insieme dei numeri interi: caratteristiche
+- **24/09/2026 (2°):** MCD, mcm, numeri primi tra loro
+- **23/09/2026 (2°):** Dimostrazioni sui numeri naturali, la fattorizzazione di un numero naturale e sue applicazioni
+- **19/09/2026 (1°):** Uso della proprietà distributiva nelle espressioni, concetto di multiplo e di divisore, ripasso criteri di divisibilità, prime dimostrazioni
+- **19/09/2026 (2°):** Numeri primi, teorema fondamentale dell'aritmetica (solo enunciato)
+- **18/09/2026 (5°):** Extra matematica: gioco di carte
+- **17/09/2026 (2°):** Proprietà delle operazioni
+- **16/09/2026 (2°):** Studio autonomo delle proprietà delle operazioni
+- **15/09/2026 (5°):** Sistema di numerazione, i numeri naturali
+- **12/09/2026 (1°):** Espressione con le potenze e relative proprietà
+- **12/09/2026 (2°):** Esercizi sulle potenze
+- **10/09/2026 (2°):** Proprietà delle potenze
+- **10/09/2026 (3°):** Espressioni
+- **09/09/2026 (2°):** Presentazione e prime indicazioni
+- **07/09/2026 (1°):** Accoglienza

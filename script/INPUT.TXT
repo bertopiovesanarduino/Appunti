@@ -1,0 +1,1624 @@
+<body>
+    <h1>Attività svolte</h1>
+    
+    <section>
+                <h2>Attività svolte il Giovedì, 12 Nov 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>2°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Correzione es, concetto di sottoinsieme, intersezione e unione di insiemi</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Geometria: uso dei simboli insiemistici in geometria</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. CALELLA</td>
+                        <td>Lingua e letteratura italiana - Liceo</td>
+                        <td class="activity">Correzione degli esercizi per casa.
+Riallineamento: punteggiatura e errori ortografici.</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>P. D'ARSIE'</td>
+                        <td>Lingua e cultura straniera</td>
+                        <td class="activity">Page 32 ex.n.2-3-4.
+Oral interview.</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Mercoledì, 11 Nov 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>3°</td>
+                        <td>P. D'ARSIE'</td>
+                        <td>Lingua e cultura straniera</td>
+                        <td class="activity">English test (units 1-2)</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>F. FRIGO</td>
+                        <td>Informatica</td>
+                        <td class="activity">I primi 35 minuti circa di lezione non sono stati svolti poiché l'edificio è stato evacuato a seguito dell'apposito allarme acustico, secondo le disposizioni del piano di evacuazione.
+Primi esempi di codifica in C. Input/output e istruzione if/else.</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Introduzione agli insiemi, concetto di appartenenza, cardinalità</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Martedì, 10 Nov 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>C. SALPETRO</td>
+                        <td>Scienze naturali</td>
+                        <td class="activity">Consegna e correzione verifica. Chiarimenti di alcuni concetti.
+Antropocene. Le scienze della Terra il suo studio e le materie di supporto. 
+Laboratorio di Scienze (indicazioni)</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>C. SALPETRO</td>
+                        <td>Scienze naturali</td>
+                        <td class="activity">Laboratorio di Scienze: Esperienza sulla Misurazione della Densità di alcuni Materiali.
+Su classroom è messa la densità Teorica dei cilindri utilizzati.</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>L. SALSI</td>
+                        <td>Scienze motorie e sportive</td>
+                        <td class="activity">Valutazione capacità coordinative: andature con e senza funicella</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>L. SALSI</td>
+                        <td>Scienze motorie e sportive</td>
+                        <td class="activity">Valutazione capacità coordinative: andature con e senza funicella</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>M. CALELLA</td>
+                        <td>Storia e geografia</td>
+                        <td class="activity">L'origine del termine "Minoici": la leggenda di Minosse e del Minotauro a Creta.</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Lunedì, 09 Nov 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>L. BORSATO</td>
+                        <td>Religione</td>
+                        <td class="activity">attività realizzazione a gruppi di lavoro della scatola della classe.</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>P. D'ARSIE'</td>
+                        <td>Lingua e cultura straniera</td>
+                        <td class="activity">Oral interviews and revision for the test.
+Homework correction and listening exercise on page 33 ex.n.7.</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>F. FRIGO</td>
+                        <td>Informatica</td>
+                        <td class="activity">Consegna delle verifiche e considerazioni personalizzate. La correzione verrà caricata in Moodle.
+Ripasso delle Leggi di De Morgan e della struttura del ciclo iterativo pre-condizionale.
+Introduzione alla codifica in C: istruzioni, variabili, costanti ed importanza dei tipi (int, float).
+Esempio del programma "Hello, world".</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. COLOMBO</td>
+                        <td>Fisica</td>
+                        <td class="activity">Correzione esercizi per casa.</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>C. SALPETRO</td>
+                        <td>Scienze naturali</td>
+                        <td class="activity">Consegna e Correzione verifica scritta.
+La relazione di laboratorio: stesura corretta</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Sabato, 07 Nov 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Verifica scritta</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>EDUCAZIONE CIVICA</td>
+                        <td class="activity">Verifica scritta</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>M. CALELLA</td>
+                        <td>Lingua e letteratura italiana - Liceo</td>
+                        <td class="activity">Antologia: il tempo e lo spazio</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>L. MATTIELLO</td>
+                        <td>Disegno e storia dell'arte</td>
+                        <td class="activity">DIS. - TAV.07 : Costruzione di raccordi tra linee rette (primi tre riquadri)</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Venerdì, 06 Nov 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>M. CALELLA</td>
+                        <td>Lingua e letteratura italiana - Liceo</td>
+                        <td class="activity">Lettura dei cap. 4 e 5 de Il segreto del bosco vecchio.</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>M. CALELLA</td>
+                        <td>Storia e geografia</td>
+                        <td class="activity">L'area siro-palestinese: gli Ebrei.
+Lettura Mundus-luoghi: Ieri e oggi. La Palestina, terra senza pace.</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Ripasso</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. COLOMBO</td>
+                        <td>Fisica</td>
+                        <td class="activity">Consegna della verifica all'alunno assente con analisi degli errori. Esercizi sull'esplicitazione delle varianìbili in una equazione.</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>L. MATTIELLO</td>
+                        <td>Disegno e storia dell'arte</td>
+                        <td class="activity">VERIFICA DI STORIA DELL'ARTE</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Giovedì, 05 Nov 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>M. COLOMBO</td>
+                        <td>Fisica</td>
+                        <td class="activity">Consegna e discussionee della verifica. Analisi degli errori.</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Ripasso</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Geometria: concetto di teorema, assioma, ipotesi e tesi, definizione di figure congruenti</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. CALELLA</td>
+                        <td>Lingua e letteratura italiana - Liceo</td>
+                        <td class="activity">Riallineamento di grammatica: la punteggiatura</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>P. D'ARSIE'</td>
+                        <td>Lingua e cultura straniera</td>
+                        <td class="activity">Oral interviews.</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Mercoledì, 04 Nov 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>M. CALELLA</td>
+                        <td>Lingua e letteratura italiana - Liceo</td>
+                        <td class="activity">Consegna dei temi.  Approccio didattico all'errore.</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>M. CALELLA</td>
+                        <td>Lingua e letteratura italiana - Liceo</td>
+                        <td class="activity">La struttura a cornice. Il narratore di primo e secondo grado.
+Lettura del racconto "La vela nera" di Roberto Vecchioni.</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>P. D'ARSIE'</td>
+                        <td>Lingua e cultura straniera</td>
+                        <td class="activity">Homework correction; ex.n.8-9 page 25.</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>F. FRIGO</td>
+                        <td>Informatica</td>
+                        <td class="activity">Verifica di recupero assenze per due studenti.
+Introduzione alle Leggi di De Morgan e verifica con tabella di verità. Semplificazione della doppia negazione.
+Introduzione al ciclo iterativo pre-condizionale. Esecuzione mediante tabella di traccia. Esempi ed esercizi guidati.</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Conversione dei numeri decimali in forma di frazione</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Martedì, 03 Nov 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>C. SALPETRO</td>
+                        <td>Scienze naturali</td>
+                        <td class="activity">Verifica Scritta su Notazione scientifica, Equivalenze, grandezze fisiche fondamentali : massa, peso, densità calore e temperature</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>C. SALPETRO</td>
+                        <td>Scienze naturali</td>
+                        <td class="activity">Consegna e correzione verifica Scritta del 27.10.2026</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>L. SALSI</td>
+                        <td>Scienze motorie e sportive</td>
+                        <td class="activity">capacità ccoordiative andature con e senza funicella</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>L. SALSI</td>
+                        <td>Scienze motorie e sportive</td>
+                        <td class="activity">tecnica e tattica hockey ?</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>M. CALELLA</td>
+                        <td>Storia e geografia</td>
+                        <td class="activity">Ripasso</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Venerdì, 30 Ott 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>3°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">I numeri decimali, legame con i numeri razionali, dedurre il tipo di numero decimale dalla frazione</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>L. MATTIELLO</td>
+                        <td>Disegno e storia dell'arte</td>
+                        <td class="activity">DIS. controllo disegni e indicazioni ad personam
+ST. ARTE - arte egizia: mastaba, piramide a gradoni di Djoser; piramide romboidale di Snefru;, piramide a facce liscie...</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Giovedì, 29 Ott 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>M. COLOMBO</td>
+                        <td>Fisica</td>
+                        <td class="activity">Assemblea per le elezioni dei rappresentanti degli alunni nel Cdc.</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>EDUCAZIONE CIVICA</td>
+                        <td class="activity">Assemblea ed elezione dei rappresentanti di classe</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>EDUCAZIONE CIVICA</td>
+                        <td class="activity">L'IVA, calcolo e scorporo. Problemi finanziari con le percentuali</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. CALELLA</td>
+                        <td>Lingua e letteratura italiana - Liceo</td>
+                        <td class="activity">Grammatica: l'articolo.</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>P. D'ARSIE'</td>
+                        <td>Lingua e cultura straniera</td>
+                        <td class="activity">Oral interviews.</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Mercoledì, 28 Ott 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>M. CALELLA</td>
+                        <td>Lingua e letteratura italiana - Liceo</td>
+                        <td class="activity">Controllo dei compiti e correzione degli esercizi per casa.
+Lettura del brano "Gatti grassi" di E. Keret.</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>M. CALELLA</td>
+                        <td>Storia e geografia</td>
+                        <td class="activity">La terra di Canaan. I Fenici.</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>P. D'ARSIE'</td>
+                        <td>Lingua e cultura straniera</td>
+                        <td class="activity">Homework correction and the irregular verbs in the past.</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>F. FRIGO</td>
+                        <td>Informatica</td>
+                        <td class="activity">Verifica</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Variazione percentuale</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Martedì, 27 Ott 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>C. SALPETRO</td>
+                        <td>Scienze naturali</td>
+                        <td class="activity">Verifica scritta</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>C. SALPETRO</td>
+                        <td>Scienze naturali</td>
+                        <td class="activity">Le scale termometriche. Formule e passaggio da una scala all'altra( Celsius, Fahrenheit e Kelvin. La Densità. Formule inverse. La densità relativa. Il calore Specifico.</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>M. CALELLA</td>
+                        <td>Storia e geografia</td>
+                        <td class="activity">Interrogazione.
+L'impero persiano.</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Lunedì, 26 Ott 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>L. BORSATO</td>
+                        <td>EDUCAZIONE CIVICA</td>
+                        <td class="activity">incontro rappresentanza tutor classi 3e 3 4e liceo</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>P. D'ARSIE'</td>
+                        <td>Lingua e cultura straniera</td>
+                        <td class="activity">Oral interview.
+Gateway: "Law and order" page 22 unit 2, vocabulary and listening wxercises.</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>F. FRIGO</td>
+                        <td>Informatica</td>
+                        <td class="activity">Ripasso in preparazione della verifica: tabelle di verità degli operatori AND, OR, NOT.
+Uso delle condizioni booleane.
+Correzione homework (es. 3 e 4) e considerazioni.</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. COLOMBO</td>
+                        <td>Fisica</td>
+                        <td class="activity">Riallineamento: le equazioni di primo grado; esplicitazione delle variabili presenti in una equazione. Esercizi.</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>C. SALPETRO</td>
+                        <td>Scienze naturali</td>
+                        <td class="activity">Delucidazioni e ripasso argomenti per verifica di domani.
+Le grandezze estensive ed intensive. La massa e il peso ( formule inverse). La temperatura ed il calore</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Sabato, 24 Ott 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Correzione esercizi</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Extra matematica: formule per la somma di numeri pari e dispari</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>M. CALELLA</td>
+                        <td>Lingua e letteratura italiana - Liceo</td>
+                        <td class="activity">Portare Il segreto del bosco vecchio di Buzzati.
+Lettura dei primi tre capitoli</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>L. MATTIELLO</td>
+                        <td>Disegno e storia dell'arte</td>
+                        <td class="activity">ST. ARTE - arte egiziana: contestualizzazione, fattori importanti, il Nilo e ciò che esso ha comportato; religione e culto dei morti; introduzione all'architettura delle mastabe</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Venerdì, 23 Ott 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>M. CALELLA</td>
+                        <td>Lingua e letteratura italiana - Liceo</td>
+                        <td class="activity">Consegna e correzione delle verifche di grammatica.
+Antologia: lettura del brano "La luna nel pozzo" di Jan Philippe Sendker</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>M. CALELLA</td>
+                        <td>Storia e geografia</td>
+                        <td class="activity">Le popolazioni indoeuropee: Hittiti - Assiri - Neobabilonesi</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>L. MATTIELLO</td>
+                        <td>Disegno e storia dell'arte</td>
+                        <td class="activity">DIS. - riconsegna verifiche corrette  e commento ad personam delle stesse.</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. COLOMBO</td>
+                        <td>Fisica</td>
+                        <td class="activity">VERIFICA SCRITTA RINVIATA DAL 19 OTTOBRE.</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>L. MATTIELLO</td>
+                        <td>Disegno e storia dell'arte</td>
+                        <td class="activity">DIS. - TAV.1.06 : costruzione di stelle e figure stellari a partire da poligoni regolari (tavola inserita in classroom)</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Giovedì, 22 Ott 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>M. COLOMBO</td>
+                        <td>Fisica</td>
+                        <td class="activity">Approfondimento/chiarimenti per la verifica.</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>EDUCAZIONE CIVICA</td>
+                        <td class="activity">Effettuata l’informazione degli studenti sugli argomenti previsti
+dall’art. 36 del D.Lgs. 81/08</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Geometria: segmenti consecutivi e adiacenti, angolo, angolo convesso e angolo concavo, angoli complementari, supplementari, esplementari, opposti al vertice</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. CALELLA</td>
+                        <td>Lingua e letteratura italiana - Liceo</td>
+                        <td class="activity">Come si redige un verbale</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>P. D'ARSIE'</td>
+                        <td>Lingua e cultura straniera</td>
+                        <td class="activity">Oral interviews.</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Mercoledì, 21 Ott 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>L. BOT</td>
+                        <td>Scienze motorie e sportive</td>
+                        <td class="activity">Assistenza compito in classe</td>
+                    </tr><tr>
+                        <td>1°</td>
+                        <td>M. CALELLA</td>
+                        <td>Lingua e letteratura italiana - Liceo</td>
+                        <td class="activity">Tema in classe</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>L. BOT</td>
+                        <td>Scienze motorie e sportive</td>
+                        <td class="activity">Assistenza in compito in classe</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>P. D'ARSIE'</td>
+                        <td>Lingua e cultura straniera</td>
+                        <td class="activity">Some information regarding Trinity certificates is provided; homework correction.</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>F. FRIGO</td>
+                        <td>Informatica</td>
+                        <td class="activity">Correzione homework (es. 2).
+Significato di "algebra" (insiemi di valori, operatori e proprietà degli operatori).
+Operazioni dell'algebra booleana: NOT, AND, OR. Tabelle di verità ed esempi.</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Proporzioni e introduzione alle percentuali</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Martedì, 20 Ott 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>4°</td>
+                        <td>S. PACE</td>
+                        <td>Matematica</td>
+                        <td class="activity">Studio assistito</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>M. CALELLA</td>
+                        <td>Storia e geografia</td>
+                        <td class="activity">Consegna e correzione delle verifiche di geostoria.
+Correzione degli esercizi assegnati per oggi.</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Lunedì, 19 Ott 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>L. BORSATO</td>
+                        <td>Religione</td>
+                        <td class="activity">Formazione gruppi di lavoro per attività didattica</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>P. D'ARSIE'</td>
+                        <td>Lingua e cultura straniera</td>
+                        <td class="activity">Homework correction and listening exercises.</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>F. FRIGO</td>
+                        <td>Informatica</td>
+                        <td class="activity">Laboratorio: correzione homework. Ripasso delle principali istruzioni dei flow-chart e del funzionamento delle condizioni.
+Esercitazione sulle condizioni con Flowgorithm.
+Materiali disponibili in Moodle &gt; Laboratorio &gt; 2026-10-19 - esempi lezione</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. COLOMBO</td>
+                        <td>Fisica</td>
+                        <td class="activity">FISICA - VERIFICA SCRITTA. Argomenti: tutta la parte introduttiva; nomi e simboli delle grandezze e delle relative unità di misura; scrittura corretta di una misura: CASO I e CASO II; errore relativo e relativo percentuale; compatibilità tra le misure. LA VERIFICA E' RINVIATA A VENERDI' 23 OTTOBRE PER IL CORSO DI SICUREZZA PROGRAMMATO SABATO 17 OTTOBRE!!!!</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Sabato, 17 Ott 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Correzione es</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Extra: somme di Gauss e somma dei numeri pari con il foglio di calcolo</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>M. CALELLA</td>
+                        <td>Lingua e letteratura italiana - Liceo</td>
+                        <td class="activity">Lettura del racconto "Cosima e il muflone" di G. Deledda.
+Analisi guidata sulla struttura narrativa</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>L. MATTIELLO</td>
+                        <td>Disegno e storia dell'arte</td>
+                        <td class="activity">ST. ARTE - Porta di Ishtar;  I Sumeri, città murate, i lamassù.</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Venerdì, 16 Ott 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>M. CALELLA</td>
+                        <td>Lingua e letteratura italiana - Liceo</td>
+                        <td class="activity">La struttura narrativa e le sequenze.
+Lettura del racconto "Vodoo child" di S. Benni e "La volpe e il corvo" di G. E. Lessing</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>M. CALELLA</td>
+                        <td>Storia e geografia</td>
+                        <td class="activity">L'Egitto si espande: dal regno all'impero</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Correzione es. della verifica, espressione con le frazioni</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>A. BATTAGLIA</td>
+                        <td>Matematica</td>
+                        <td class="activity">studio autonomo</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>L. MATTIELLO</td>
+                        <td>Disegno e storia dell'arte</td>
+                        <td class="activity">VERIFICA DI DISEGNO</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Giovedì, 15 Ott 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>M. COLOMBO</td>
+                        <td>Fisica</td>
+                        <td class="activity">RIALLINEAMENTO : Equazioni di primo grado ed esplicitazione delle variabili.</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Introduzione alla geometria euclidea e alla figura di Euclide</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Prime definizioni della geometria euclidea</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. CALELLA</td>
+                        <td>Lingua e letteratura italiana - Liceo</td>
+                        <td class="activity">Verifica di grammatica: ortografia e lessico.</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>P. D'ARSIE'</td>
+                        <td>Lingua e cultura straniera</td>
+                        <td class="activity">Oral interview.
+Homework correction.</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Mercoledì, 14 Ott 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>M. CALELLA</td>
+                        <td>Lingua e letteratura italiana - Liceo</td>
+                        <td class="activity">Portare il manuale di antologia "Nella mente e nel cuore"
+Introduzione al testo narrativo: la storia e il racconto; fabula e intreccio; tecniche di alterazione della fabula.
+lettura  del testo T1</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>M. CALELLA</td>
+                        <td>Storia e geografia</td>
+                        <td class="activity">La religione egizia: il libro dei morti e la psicostasia.
+La mummificazione.</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>P. D'ARSIE'</td>
+                        <td>Lingua e cultura straniera</td>
+                        <td class="activity">Oral interviews.</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>F. FRIGO</td>
+                        <td>Informatica</td>
+                        <td class="activity">Introduzione ai flow-chart e sempici problemi. Istruzioni di input/output, assegnazione e decisione.</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Consegna verifiche</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Martedì, 13 Ott 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>C. SALPETRO</td>
+                        <td>EDUCAZIONE CIVICA</td>
+                        <td class="activity">Ripasso.Il sistema CPL: pittogrammi,frasi H e P.Etichettatura delle sostanze.SDS.
+Esercizi.La vetreria di laboratorio</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>C. SALPETRO</td>
+                        <td>Scienze naturali</td>
+                        <td class="activity">Gli errori di misura.le cifre significative.Volume e capacità.Esercitazione sul passaggio tra volume e capacità</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>L. SALSI</td>
+                        <td>Scienze motorie e sportive</td>
+                        <td class="activity">capacità coordinative e andature con e senza funicella</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>L. SALSI</td>
+                        <td>Scienze motorie e sportive</td>
+                        <td class="activity">tecnica e torneo di badminton</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>M. CALELLA</td>
+                        <td>Storia e geografia</td>
+                        <td class="activity">La  civiltà del NIlo: le fasi della storia egizia; l'ordinamento politico e la struttura sociale.</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Lunedì, 12 Ott 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>L. BORSATO</td>
+                        <td>Religione</td>
+                        <td class="activity">presentazione programma di religione</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>P. D'ARSIE'</td>
+                        <td>Lingua e cultura straniera</td>
+                        <td class="activity">Revision of present simple and present continuous pages 14-15; homework correction, noun suffixes page 15 ex.n.1-2-3-4.</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>F. FRIGO</td>
+                        <td>Informatica</td>
+                        <td class="activity">Laboratorio: prima introduzione al sistema Windows. I percorsi.
+Introduzione alla programmazione, esempio di un semplice flow-chart e discussione di alcune casistiche.
+Concetto di variabile e dichiarazione, istruzioni di input, output e calcolo.</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. COLOMBO</td>
+                        <td>Fisica</td>
+                        <td class="activity">Correzione degli esercizi.</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>C. SALPETRO</td>
+                        <td>EDUCAZIONE CIVICA</td>
+                        <td class="activity">Riflessione sull'organizzazione del tempo.Rischio chimico e biologico, sostanze chimiche e  biologiche.Vie di assunzione: contatto, ingestione e inalazione.Comportamenti risoluzione rischio.Regolamento REACH e GHS</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Sabato, 10 Ott 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Espressioni con le frazioni, esponenti negativi</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Extra matematica: contare come Gauss</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>M. CALELLA</td>
+                        <td>EDUCAZIONE CIVICA</td>
+                        <td class="activity">Esposizione lavoro sulle regole.
+Indicazioni sui compiti del rappresentante di classe.</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>L. MATTIELLO</td>
+                        <td>Disegno e storia dell'arte</td>
+                        <td class="activity">DIS. - ripasso in vista della verifica della prossima settimana;
+ST. ARTE - stendardo di Ur;  I Babilonesi: Ziggurat, porta di Ishtar..</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Venerdì, 09 Ott 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>M. CALELLA</td>
+                        <td>Storia e geografia</td>
+                        <td class="activity">Verifica semistrutturata di Geostoria: la preistoria e i popoli della Mesopotamia</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Operazioni con le frazioni, correzione es.</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. COLOMBO</td>
+                        <td>Fisica</td>
+                        <td class="activity">Chiarimenti sugli argomenti svolti.</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>L. MATTIELLO</td>
+                        <td>Disegno e storia dell'arte</td>
+                        <td class="activity">DIS. - suggerimenti ad personam  sulla Tavola 04; Costruzione di poligoni regolari di "n" lati (TAV.05)</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Giovedì, 08 Ott 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>M. COLOMBO</td>
+                        <td>Fisica</td>
+                        <td class="activity">Comunicazione delle date delle verifiche del primo periodo. Compatibilità delle misure.</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Verifica scritta</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Verifica scritta</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. CALELLA</td>
+                        <td>EDUCAZIONE CIVICA</td>
+                        <td class="activity">Esposizione dei lavori di gruppo (italiano)</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>P. D'ARSIE'</td>
+                        <td>Lingua e cultura straniera</td>
+                        <td class="activity">Homework correction and entry test correction.</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Mercoledì, 07 Ott 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>M. CALELLA</td>
+                        <td>Lingua e letteratura italiana - Liceo</td>
+                        <td class="activity">Riallineamento: il lessico.
+I nomi composti: prefissoidi e suffissoidi.</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>M. CALELLA</td>
+                        <td>EDUCAZIONE CIVICA</td>
+                        <td class="activity">Conclusione lavoro di gruppo sulle regole (italiano)</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>P. D'ARSIE'</td>
+                        <td>Lingua e cultura straniera</td>
+                        <td class="activity">Homework correction; reading and comprehension text on pages 12-13; ex.n.4-5 page 13.</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>F. FRIGO</td>
+                        <td>Informatica</td>
+                        <td class="activity">Ripasso dell'architettura di Von Neumann e ruolo delle varie componenti.
+Introduzione alla programmazione:  risoluzione di un problema generale, scrittura in un linguaggio comprensibile al computer.
+Differenza tra esecutore automatico ed esecutore intelligente.
+Definizione e caratteristiche di "algoritmo". Esercizio: pasta al pomodoro e problemi di ambiguità.</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Confronto tra frazioni e loro rappresentazione sulla retta dei numeri,
+espressioni con frazioni</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Martedì, 06 Ott 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>C. SALPETRO</td>
+                        <td>Scienze naturali</td>
+                        <td class="activity">Correzione Esercitazione. Lavoro sulle Equivalenze</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>C. SALPETRO</td>
+                        <td>EDUCAZIONE CIVICA</td>
+                        <td class="activity">Formazione generale : Il testo unico sulla sicurezza del lavoro 81/2008.Obiettivo e struttura. Figure della sicurezza. Obbligo di formazione. Definizione di Pericolo e di Rischio e Danno. DVR. Tipologia di rischio nel laboratorio di Scienze. DPI e DPC Rischio Chimico e Biologico.Lettura del regolamento di Laboratorio di Scienze</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>L. SALSI</td>
+                        <td>Scienze motorie e sportive</td>
+                        <td class="activity">warm up, andature con e senza funicella</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>L. SALSI</td>
+                        <td>Scienze motorie e sportive</td>
+                        <td class="activity">torneo hockey ?</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>M. CALELLA</td>
+                        <td>Storia e geografia</td>
+                        <td class="activity">Ripasso prima della verifica</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Lunedì, 05 Ott 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>L. BORSATO</td>
+                        <td>EDUCAZIONE CIVICA</td>
+                        <td class="activity">Attività didattica volta all'analisi delle dinamiche di gruppo classe</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>P. D'ARSIE'</td>
+                        <td>Lingua e cultura straniera</td>
+                        <td class="activity">Gateway: presentation of the book and unit 1 page 10; ex.n.1-2.</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>F. FRIGO</td>
+                        <td>Informatica</td>
+                        <td class="activity">Caratteristiche di un computer (CPU/core, RAM, memoria di massa, GPU/NPU, chipset, periferiche). 
+Architettura di Von Neumann (CPU, CU, ALU, registri, memoria, I/O, bus) e concetto di programma memorizzato (stored program).
+Esempi di periferiche di input e di output.</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. COLOMBO</td>
+                        <td>Fisica</td>
+                        <td class="activity">Correzione degli esercizi. Errore relativo ed errore relativo percentuale. Completamento degli esercizi assegnati per casa.</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>C. SALPETRO</td>
+                        <td>Scienze naturali</td>
+                        <td class="activity">Lavoro sull'organizzazione del tempo
+Il metodo scientifico. La peer review e la pubblicazione di una ricerca scientifica</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Sabato, 03 Ott 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">L'insieme dei numeri razionali (definizione e caratteristiche), frazioni equivalenti</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Extra matematica: Sudoku con le somme</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>M. CALELLA</td>
+                        <td>EDUCAZIONE CIVICA</td>
+                        <td class="activity">Lavoro sulle regole</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>L. MATTIELLO</td>
+                        <td>Disegno e storia dell'arte</td>
+                        <td class="activity">DIS. - TAV. 04 : Costruzioni di pentagono ed ettagono e figure stellari da esse figure derivabili</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Venerdì, 02 Ott 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>M. CALELLA</td>
+                        <td>Lingua e letteratura italiana - Liceo</td>
+                        <td class="activity">Grammatica: correzione esercizi per casa.
+Riallineamento: il lessico. Il significato e la forma delle parole. Prestiti, regionalismi e neologismi.</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>M. CALELLA</td>
+                        <td>Storia e geografia</td>
+                        <td class="activity">Attività metodo di studio: a coppie si risponde alle domande di pg. 37 n. 1,2,3 e 4 (anche questa per iscritto)</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Esercizi sul valore assoluto ed espressioni con i numeri interi</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. COLOMBO</td>
+                        <td>Fisica</td>
+                        <td class="activity">Correzione degli esercizi assegnati per casa.</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>L. BORSATO</td>
+                        <td>EDUCAZIONE CIVICA</td>
+                        <td class="activity">attività didattica volta allo sviluppo di corrette dinamiche relazionali e di classe</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Giovedì, 01 Ott 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>M. COLOMBO</td>
+                        <td>Fisica</td>
+                        <td class="activity">Scrittura corretta II caso.: ESERCIZIO.</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Correzione esercizi</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Il valore assoluto</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. CALELLA</td>
+                        <td>Storia e geografia</td>
+                        <td class="activity">Gli accadi e i babilonesi: due regni unitari.
+Il codice di Hammurabi.</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>P. D'ARSIE'</td>
+                        <td>Lingua e cultura straniera</td>
+                        <td class="activity">English entry test.</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Mercoledì, 30 Set 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>P. D'ARSIE'</td>
+                        <td>Lingua e cultura straniera</td>
+                        <td class="activity">Homework correction; page 27 ex.n.7 and listening ex.n.2-3 page 28.</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>M. CALELLA</td>
+                        <td>Storia e geografia</td>
+                        <td class="activity">Le civiltà della Mesopotamia: i sumeri.</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>F. FRIGO</td>
+                        <td>Informatica</td>
+                        <td class="activity">Considerazioni sugli approfondimenti personali.
+Prosieguo sulla storia della tecnologia dell'informatica.</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. CALELLA</td>
+                        <td>Lingua e letteratura italiana - Liceo</td>
+                        <td class="activity">Riallineamento: recupero ortografia (apostrofo e accento)</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>M. CALELLA</td>
+                        <td>EDUCAZIONE CIVICA</td>
+                        <td class="activity">Prosecuzione lavoro di gruppo</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Martedì, 29 Set 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>C. SALPETRO</td>
+                        <td>Scienze naturali</td>
+                        <td class="activity">Esercitazione e rafforzo sulle Equivalenze e sulla notazione scientifica.</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>C. SALPETRO</td>
+                        <td>Scienze naturali</td>
+                        <td class="activity">excursus storico sulle Scienze e le tappe che hanno stravolto il pensiero scientifico. Visione Filmato.</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>L. SALSI</td>
+                        <td>Scienze motorie e sportive</td>
+                        <td class="activity">capacità ccoordiative andature con la funicella</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>L. SALSI</td>
+                        <td>Scienze motorie e sportive</td>
+                        <td class="activity">progressione didattica badminton</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Correzione es.</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Lunedì, 28 Set 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>L. MATTIELLO</td>
+                        <td>Disegno e storia dell'arte</td>
+                        <td class="activity">ST. ARTE -nascita della scrittura; l'argilla nei territori mesopotamici; l'arte dei Sumeri: l'architettura delle ziqqurat; lo stendardo di Ur</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>P. D'ARSIE'</td>
+                        <td>Lingua e cultura straniera</td>
+                        <td class="activity">Revision for the entry test.</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>F. FRIGO</td>
+                        <td>Informatica</td>
+                        <td class="activity">Riassunto dei concetti visti in precedenza.
+Dati ed informazioni (interpretazione del significato ed elaborazione). Utilità dell'informazione nel tempo.
+Significato di "informatica" e origini della disciplina (richiami storici alle principali tappe che hanno portato all'informatica odierna).</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. COLOMBO</td>
+                        <td>Fisica</td>
+                        <td class="activity">Scrittura corretta II caso.</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>C. SALPETRO</td>
+                        <td>Scienze naturali</td>
+                        <td class="activity">Riallineamento: Metodo di studio, costruzione di mappe, organizzazione del Tempo.</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Sabato, 26 Set 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Operazioni con i numeri interi, espressioni</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Extra matematica: sudoku</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>M. CALELLA</td>
+                        <td>Lingua e letteratura italiana - Liceo</td>
+                        <td class="activity">Il testo regolativo: caratteri generali.
+Indicazioni per la stesura dei regolamenti di classse.</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>L. MATTIELLO</td>
+                        <td>Disegno e storia dell'arte</td>
+                        <td class="activity">DIS. - spiegazione ultimi tre riquadri della TAV. 1.03
+ST. ARTE - architetture primitive; nascita della scrittura</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Venerdì, 25 Set 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>L. MATTIELLO</td>
+                        <td>Disegno e storia dell'arte</td>
+                        <td class="activity">DIS. - Controllo ad personam della TAV. 02;  indicazioni per la TAV. 03 con costruzioni di triangolo eq., quadrato, rettangolo aure, esagono data la circonferenza circoscritta.</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>M. CALELLA</td>
+                        <td>Storia e geografia</td>
+                        <td class="activity">Governare e comunicare nel Neolitico.</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>M. CALELLA</td>
+                        <td>EDUCAZIONE CIVICA</td>
+                        <td class="activity">Inizio del lavoro di gruppo sulle regole. Lettura dei documenti (caricati in classroom) e individuazione delle parole chiave.</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. COLOMBO</td>
+                        <td>Fisica</td>
+                        <td class="activity">Ulteriori esercizi sulle cifre significative. Introduzione alla scrittura corretta di una misura: I e II caso.</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Es. su mcm, l'insieme dei numeri interi: caratteristiche</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Giovedì, 24 Set 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>M. COLOMBO</td>
+                        <td>Fisica</td>
+                        <td class="activity">Controllo esercizio per casa. Cifre significative di un numero. Esercizi.</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">MCD, mcm, numeri primi tra loro</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>M. CALELLA</td>
+                        <td>Lingua e letteratura italiana - Liceo</td>
+                        <td class="activity">Riallineamento: recupero ortografia. Correzione esercizi per casa.
+La sillaba, dittonghi e iati.</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. CALELLA</td>
+                        <td>Storia e geografia</td>
+                        <td class="activity">Formazione registro elettronico Argo – studenti in Aula Magna1</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Mercoledì, 23 Set 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>C. SALPETRO</td>
+                        <td>Scienze naturali</td>
+                        <td class="activity">Riallineamento: Metodo di studio. Autoregolazione, Lettura superficiale, Lettura Analitica, Mappe o schemi</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Dimostrazioni sui numeri naturali, la fattorizzazione di un numero naturale e sue applicazioni</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. CALELLA</td>
+                        <td>Lingua e letteratura italiana - Liceo</td>
+                        <td class="activity">Consegna dei test inziali. Correzione dei principali errori.</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>M. CALELLA</td>
+                        <td>Storia e geografia</td>
+                        <td class="activity">Il Neolitico.</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Martedì, 22 Set 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>F. FRIGO</td>
+                        <td>Informatica</td>
+                        <td class="activity">Ripasso delle equazioni di primo grado. Impostazione della soluzione di semplici problemi e correzione.
+Differenza tra sistemi analogici e sistemi digitali, esempi: orologio, termometro.</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>L. BORSATO</td>
+                        <td>EDUCAZIONE CIVICA</td>
+                        <td class="activity">attività didattica volta alla conoscenza e formazione gruppo classe</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>L. SALSI</td>
+                        <td>Scienze motorie e sportive</td>
+                        <td class="activity">capacità ccoordiative: andature con e senza funicella</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>EDUCAZIONE CIVICA</td>
+                        <td class="activity">Attività: sicurezza sui binari</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Lunedì, 21 Set 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>C. SALPETRO</td>
+                        <td>Scienze naturali</td>
+                        <td class="activity">Correzione Esercizi. Ripasso. Operazioni con la notazione scientifica Esercitazioni.</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>C. SALPETRO</td>
+                        <td>Scienze naturali</td>
+                        <td class="activity">Ordine di grandezza. Rapporti tra ordini di grandezza. Equivalenze</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>F. FRIGO</td>
+                        <td>Informatica</td>
+                        <td class="activity">Ripasso delle unità di misura dell'informatica (commerciali - con potenze di 10 ed informatiche - con potenze di 2).
+Significato di "bit" e cenni al concetto di Transistor come interruttore.
+Esercizio guidato sul calcolo delle dimensioni di file in una cartella.</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. COLOMBO</td>
+                        <td>Fisica</td>
+                        <td class="activity">Come si stabilisce la sensibilità di uno strumento analogico e digitale. Caratteristiche di uno strumento: prontezza. Scrittura alla lavagna dell'esercizio pratico per casa.</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Sabato, 19 Set 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Uso della proprietà distributiva nelle espressioni, concetto di multiplo e di divisore, ripasso criteri di divisibilità, prime dimostrazioni</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Numeri primi, teorema fondamentale dell'aritmetica (solo enunciato)</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>M. CALELLA</td>
+                        <td>EDUCAZIONE CIVICA</td>
+                        <td class="activity">Formazione gruppi per il lavoro sulle regole di classe.
+Lettura dell'art.Art.3 del regolamento di istituto:  Comportamenti degli allievi -assenze -ritardi –giustificazioni.</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>L. MATTIELLO</td>
+                        <td>Disegno e storia dell'arte</td>
+                        <td class="activity">DIS. - spiegazione ultimi due riquadri della TAV. 02.
+ST ARTE - Paleolitico e neolitico; l'uomo nomade e stanziale; la tomba come primo monumento di civiltà.</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Venerdì, 18 Set 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>L. MATTIELLO</td>
+                        <td>Disegno e storia dell'arte</td>
+                        <td class="activity">DIS. - controllo lavori tav. 01; TAV.02: prime 4 costruzioni geometriche</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>M. CALELLA</td>
+                        <td>Lingua e letteratura italiana - Liceo</td>
+                        <td class="activity">Riallineamento: recupero ortografico. Esercizi in classe.</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>M. CALELLA</td>
+                        <td>Storia e geografia</td>
+                        <td class="activity">Dall'Australopithecus all'Homo Sapiens. I primi utensili: chopper e amigdala. Il Paleolitico: caratteri generali.</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. COLOMBO</td>
+                        <td>Fisica</td>
+                        <td class="activity">Gli strumenti di misura: analogico vs digitale. Caratteristiche di uno strumento : sensibilità e portata.</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Extra matematica: gioco di carte</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Giovedì, 17 Set 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>M. COLOMBO</td>
+                        <td>Fisica</td>
+                        <td class="activity">Che cos'è la fisica e  un fenomeno naturale. Definizione di grandezza; significato di misurare, misurazione vs misura. Introduzione agli strumenti di misura.</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Proprietà delle operazioni</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>M. CALELLA</td>
+                        <td>Lingua e letteratura italiana - Liceo</td>
+                        <td class="activity">Riallineamneto: esercizi di rinforzo per evitare errori ortografici.</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. CALELLA</td>
+                        <td>Storia e geografia</td>
+                        <td class="activity">Il sapere geografico: che cos'è la geografia. Le coordinate geografiche. Le carte geografiche.</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Mercoledì, 16 Set 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>C. SALPETRO</td>
+                        <td>Scienze naturali</td>
+                        <td class="activity">Correzione test di ingresso. La notazione scientifica</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Studio autonomo delle proprietà delle operazioni</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. CALELLA</td>
+                        <td>Lingua e letteratura italiana - Liceo</td>
+                        <td class="activity">Riallineamento: l'ortografia. principali dubbi ortografici.</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>M. CALELLA</td>
+                        <td>Storia e geografia</td>
+                        <td class="activity">Le fonti storiche.</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Martedì, 15 Set 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>F. FRIGO</td>
+                        <td>Informatica</td>
+                        <td class="activity">Considerazioni sugli aspetti inerenti il metodo di studio in base alla scorsa lezione.
+Metodo Cornell per gli appunti e tecnica del pomodoro per la gestione del tempo.
+Unità di misura informatiche: bit, Byte e suoi multipli (cenni iniziali).
+Alcune considerazioni sull'uso della calcolatrice: notazione in virgola mobile, scientifica, ingegneristica, virgola fissa.</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>L. BORSATO</td>
+                        <td>EDUCAZIONE CIVICA</td>
+                        <td class="activity">attività didattica in piccoli gruppi di lavoro atta a favorire la conoscenza e la collaborazione</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>L. SALSI</td>
+                        <td>Scienze motorie e sportive</td>
+                        <td class="activity">questionario e brainstorming sull attività fisica</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>L. SALSI</td>
+                        <td>Scienze motorie e sportive</td>
+                        <td class="activity">attività outdoor, ultimate fresbee e calcio a 5</td>
+                    </tr><tr>
+                        <td>5°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Sistema di numerazione, i numeri naturali</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Lunedì, 14 Set 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>C. SALPETRO</td>
+                        <td>Scienze naturali</td>
+                        <td class="activity">Test di ingresso. La Chimica e oggetto di studio</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>C. SALPETRO</td>
+                        <td>Scienze naturali</td>
+                        <td class="activity">Il sistema di misura. Le grandezze Fisiche fondamentali e derivate del S.I. Proprietà estensive ed intensive delle grandezze fisiche della materia. Multipli e sottomultipli: Dal Pico al Tera</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>F. FRIGO</td>
+                        <td>Informatica</td>
+                        <td class="activity">Presentazione dei vari sistemi informatici disponibili a scuola e delle credenziali (Argo, Google Workspace, Moodle, Firewall). Importanza dell'uso di password diverse per sistemi diversi. 
+Approfondimenti / Curiosità: Hacker vs Cracker, White/Black Hat.
+Suggerimenti per un metodo di studio efficace.</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Sabato, 12 Set 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Espressione con le potenze  e relative proprietà</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Esercizi sulle potenze</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>L. MATTIELLO</td>
+                        <td>Disegno e storia dell'arte</td>
+                        <td class="activity">DIS. spiegazione TAV.1</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Venerdì, 11 Set 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>L. BORSATO</td>
+                        <td>EDUCAZIONE CIVICA</td>
+                        <td class="activity">conoscenza gruppo classe e presentazione programma ed civica</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>F. FRIGO</td>
+                        <td>Informatica</td>
+                        <td class="activity">Saluti iniziali e presentazioni. Cenni agli obiettivi di quest'anno.
+Attività: time capsule.</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. CALELLA</td>
+                        <td>Storia e geografia</td>
+                        <td class="activity">Introduzione alla Geostoria. Definizione di  storia, il metodo dello storico e le periodizzazioni della storia.</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Giovedì, 10 Set 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>M. COLOMBO</td>
+                        <td>Fisica</td>
+                        <td class="activity">Le grandezze fisiche fondamentali: nome grandezza; simbolo grandezza; nome u.d.m. e simbolo.</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Proprietà delle potenze</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Espressioni</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. CALELLA</td>
+                        <td>EDUCAZIONE CIVICA</td>
+                        <td class="activity">Produzione di un testo scritto sull'attività di conoscenza a coppie svolta ieri.</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Mercoledì, 09 Set 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>C. SALPETRO</td>
+                        <td>Scienze naturali</td>
+                        <td class="activity">Accoglienza presentazione  e conoscenza della classe.</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Presentazione e prime indicazioni</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>M. CALELLA</td>
+                        <td>EDUCAZIONE CIVICA</td>
+                        <td class="activity">Attività di accoglienza: somministrazione di un questionario di conoscenza della classe</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>M. CALELLA</td>
+                        <td>EDUCAZIONE CIVICA</td>
+                        <td class="activity">Attività  di accoglienza: presentazione a coppie.</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Martedì, 08 Set 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>M. COLOMBO</td>
+                        <td>Fisica</td>
+                        <td class="activity">Presentazioni. Introduzione alla fisica. La fisica e il S.I.. Richiesta materiali.</td>
+                    </tr><tr>
+                        <td>2°</td>
+                        <td>L. MATTIELLO</td>
+                        <td>Disegno e storia dell'arte</td>
+                        <td class="activity">presentazione personale e del corso; richiesta dei materiali per le due discipline</td>
+                    </tr><tr>
+                        <td>3°</td>
+                        <td>L. SALSI</td>
+                        <td>Scienze motorie e sportive</td>
+                        <td class="activity">presentazioni 
+spiegazione lettura regolamento della palestra.
+esercizi mobilità articolare</td>
+                    </tr><tr>
+                        <td>4°</td>
+                        <td>L. SALSI</td>
+                        <td>Scienze motorie e sportive</td>
+                        <td class="activity">presentazioni,
+spiegazione lettura regolamento della palestra.
+esercizi mobilità articolare</td>
+                    </tr></tbody>
+                </table>
+            </section><section>
+                <h2>Attività svolte il Lunedì, 07 Set 2026</h2>
+                <table>
+                    <thead><tr><th>Ora</th><th>Docente</th><th>Materia</th><th>Descrizione</th></tr></thead>
+                    <tbody><tr>
+                        <td>1°</td>
+                        <td>F. AGATOLIO</td>
+                        <td>Matematica</td>
+                        <td class="activity">Accoglienza</td>
+                    </tr></tbody>
+                </table>
+            </section>
+
+</body>
