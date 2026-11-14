@@ -103,10 +103,28 @@
   - Due angoli si dicono adiacenti se sono consecutivi e se i lati non comuni appartengono alla stessa retta
 
  ## Definizioni angoli opposti al vertice
-  - Due angoli si dicono opposti al vertice se sono conessi e i lati dell'uno sono i prolungamenti dei lati dell'altro
-  
+  - Due angoli si dicono opposti al vertice se sono convessi e i lati dell'uno sono i prolungamenti dei lati dell'altro
 
+ ## Definizione poligono
+  - Consideriamo una poligonale chiusa e non intrecciata. Chiamiamo poligono la figura formata dalla poligonale e dai punti interni ad essa. i vertici e i lati della poligonale si chiamano vertici e lati del poligono.
 
+ ## Assioma 5 (primo assioma di congruenza)
+  - Ogni figura è congruente a sé stessa (proprietà riflessiva)
+  - Se la figura F1 è congruente alla figura F2 allora la figura F2 è congruente a F1 (proprietà simmetrica)
+  - Se la figura F1 è congruente alla figura F2 e la figura F2 è congruente alla figura F3, allora F1 è congrunte a F3 (proprietà transitiva)
+
+ ## Assioma 6 (congruenza di punti, semirette, piani e semipiani)
+  - Tutti i punti sono congruenti fra loro, e così purele rette, le semirette, i piani e i semipiani
+ 
+ ## Assioma 7 (trasporto dei segmenti e degli angoli)
+  - Dato un segmento AB e una semiretta di origine O, esiste un unico punto P sulla semiretta, tale che AB è congruente a OP
+  - Dato un angolo a^O^b e una semiretta a1 di origine O1, su ognuno dei due semipiani individiuali dalla retta cui appartiene la semiretta a1 esiste una unica semiretta b1, di originev=1, tale che a1^O^b1 è congruente ad a^O^b
+
+ ## Definizione poligono regolare
+  - Un poligono che ha tutti i lati congruenti e tutti gli angoli congruenti si dice regolare
+
+ ## Definizione punto medio
+  - Dato un segmento, si dice punto medio del segmento il punto che lo divide in due segmenti congruenti
 
 ## Domande per allenarsi a ripetere
 1. Che cosa studia la geometria?
