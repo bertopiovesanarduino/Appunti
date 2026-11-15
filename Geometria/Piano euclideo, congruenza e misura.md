@@ -136,4 +136,9 @@
 7. Quali sono i concetti primitivi della geometria considerati in questi appunti? Come si indicano punti, rette e piani?
 8. Che cosa afferma il primo assioma?
 
-
+## Dimostrazioni sui segmenti
+1. Ipotesi: assiomi riferiti al disegno a cui ci si basa nella dimostrazione
+2. Disegno: disegno con tutti i dati visibili
+3. Tesi: proposta da poi verificare
+4. Dimostrazione: Dimostrazione della tesi
+5. Quadrato nero (fine dimostrazione)
