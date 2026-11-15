@@ -1,4 +1,33 @@
 # Piano euclideo, congruenza e misura
+
+## Passaggio dal metodo induttivo al metodo deduttivo
+
+### Impostazione assiomatico-deduttiva della geometria
+
+Fino ad ora sei stato abituato a vedere i concetti di geometria e a comprenderli utilizzando il metodo induttivo. Da ora in poi la geometria verrà studiata utilizzando il metodo deduttivo. 👈
+
+#### Ragionamento induttivo 
+
+🤔 Spieghiamo il metodo con un esempio: Consideriamo alcune terne di numeri consecutive: 
+
+$ 1+2+3 = 6 $ oppure $ 2+3+4 = 9 $ oppure ancora $ 3+4+5 = 12 $
+
+Dall'osservazione di alcuni casi possiamo quindi ipotizzare che la somma di terne di numeri successivi sarà darà come risultato un multiplo di tre. Questo tipo di ragionamento è chiamato **induttivo** e il ragionamento fatto ha prodotto una **congettura**. ⚠️ La congettura è un osservazione che con buona probabilità è vera, ma non è dimostrata.
+
+#### Ragionamento deduttivo 👈
+
+Il metodo induttivo ci permette di scoprire delle nuove proprietà (**formulare congettura**), ma non ci permette di **dimostrare**.
+
+Il metodo deduttivo è il metodo con cui studieremo la gemoetria, più in particolare il metodo **assiomatico-deduttivo**.
+
+🎯 Si basa su quattro concetti *fondamentali*: 
+
+1. **Concetti primitivi**: Concetti assunti senza che ne sia data una definizione (punto di partenza) che saranno il punto di partenza per le definizioni.
+2. **Assiomi** o **Postulati**: Proposizioni (affermazioni) accettate come **vere** senza giustificazioni.
+3. La **definizione** di un nuovo oggetto avviene facendo uso **SOLO** di **concetti primitivi** e **assiomi** o **postulati**.
+4. Mediante regionamento di tipo deduttivo chiamato **dimostrazione** si deducono altre preposizioni dette ✅ teoremi.
+
+
 ## Cosa è la geometria?
 - La geometria è la branca della matematica che studia le figure geometriche
 ## Cosa sono i concetti primitivi?
